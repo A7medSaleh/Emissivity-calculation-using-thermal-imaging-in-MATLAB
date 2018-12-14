@@ -1,0 +1,1 @@
+# Emissivity-calculation-using-thermal-imaging-in-MATLAB
